@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Peter Jordan</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Peter Jordan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Released under the MIT license.</copyright>
+    <lastBuildDate>Sun, 27 Aug 2017 10:17:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Analysis</title>
+      <link>/categories/analysis/</link>
+      <pubDate>Sun, 27 Aug 2017 10:17:00 +0000</pubDate>
+      
+      <guid>/categories/analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data</title>
+      <link>/categories/data/</link>
+      <pubDate>Sat, 11 Mar 2017 10:37:20 +0000</pubDate>
+      
+      <guid>/categories/data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital</title>
+      <link>/categories/digital/</link>
+      <pubDate>Mon, 06 Mar 2017 22:21:20 +0000</pubDate>
+      
+      <guid>/categories/digital/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Events</title>
+      <link>/categories/events/</link>
+      <pubDate>Wed, 03 Feb 2016 21:14:17 +0000</pubDate>
+      
+      <guid>/categories/events/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social</title>
+      <link>/categories/social/</link>
+      <pubDate>Thu, 23 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/social/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User Needs</title>
+      <link>/categories/user-needs/</link>
+      <pubDate>Thu, 30 Mar 2017 23:37:20 +0000</pubDate>
+      
+      <guid>/categories/user-needs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weeknotes</title>
+      <link>/categories/weeknotes/</link>
+      <pubDate>Sat, 22 Jul 2017 22:25:20 +0000</pubDate>
+      
+      <guid>/categories/weeknotes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

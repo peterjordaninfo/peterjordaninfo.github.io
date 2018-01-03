@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weeknotes on Peter Jordan</title>
+    <link>/categories/weeknotes/</link>
+    <description>Recent content in Weeknotes on Peter Jordan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Released under the MIT license.</copyright>
+    <lastBuildDate>Sat, 22 Jul 2017 22:25:20 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/weeknotes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Weeknotes 01-02</title>
+      <link>/blog/weeknotes-01-02/</link>
+      <pubDate>Sat, 22 Jul 2017 22:25:20 +0000</pubDate>
+      
+      <guid>/blog/weeknotes-01-02/</guid>
+      <description>I’ve been following the trials, tribulations and successes of colleagues in their weeknotes over the last while. So now I’m having a go - to share my working week as Head of Performance and Data Analysis at GDS.
+I started writing some notes last week, but before I knew it, it was this week. So here are two weeks worth.
+Week 1: 10 July Monday Still getting into the stride of my new and longer commute from Waterloo to GDS’ new abode at Aldgate.</description>
+    </item>
+    
+  </channel>
+</rss>

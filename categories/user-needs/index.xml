@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>User Needs on Peter Jordan</title>
+    <link>/categories/user-needs/</link>
+    <description>Recent content in User Needs on Peter Jordan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Released under the MIT license.</copyright>
+    <lastBuildDate>Thu, 30 Mar 2017 23:37:20 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/user-needs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A multi-disciplinary team</title>
+      <link>/blog/multi-disciplinary-team/</link>
+      <pubDate>Thu, 30 Mar 2017 23:37:20 +0000</pubDate>
+      
+      <guid>/blog/multi-disciplinary-team/</guid>
+      <description>I’ve just read a recent article in the Economic View section of the New York Times. The article asks What if Sociologists Had as Much Influence as Economists?.
+I liked the quotation from Michèle Lamont, a Harvard sociologist and president of the American Sociological Association:
+ “Once economists have the ears of people in Washington, they convince them that the only questions worth asking are the questions that economists are equipped to answer.</description>
+    </item>
+    
+  </channel>
+</rss>

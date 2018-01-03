@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on Peter Jordan</title>
+    <link>/categories/events/</link>
+    <description>Recent content in Events on Peter Jordan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Released under the MIT license.</copyright>
+    <lastBuildDate>Wed, 03 Feb 2016 21:14:17 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/events/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Big Bang Data exhibition - a personal review</title>
+      <link>/blog/big-bang-data-exhibition-apersonal-review/</link>
+      <pubDate>Wed, 03 Feb 2016 21:14:17 +0000</pubDate>
+      
+      <guid>/blog/big-bang-data-exhibition-apersonal-review/</guid>
+      <description>Last week some GDS performance and data analysts made a &amp;lsquo;field trip&amp;rsquo; down the road to the Big Bang Data exhibition at Somerset House in the Strand. The exhibition curators aim to highlight &amp;ldquo;the datafication of our world and how data affects everyone&amp;rdquo;.
+The five themes in the exhibition are:
+ data and you data and cities data and democracy data and privacy data and design  As an analyst working in government, I was mostly aware of the issues discussed, but I found it thought-provoking to see things represented as both data and art.</description>
+    </item>
+    
+    <item>
+      <title>DAUGS VI</title>
+      <link>/blog/daugs-vi/</link>
+      <pubDate>Sat, 05 Dec 2015 22:21:20 +0000</pubDate>
+      
+      <guid>/blog/daugs-vi/</guid>
+      <description>On 4 December, I hosted DAUGS VI, the sixth meet-up of Digital Analysts in UK Government Services. What started as a smallish event for digital analysts working on the UK Government Digital Service&amp;rsquo;s Digital Transformation exemplar programme, has blossomed into a wider event for a wider family of analysts and other disciplines interested in using digital data.
+Network visualisation of GOV.UK
+Forty to fifty people attended DAUGS VI and we had speakers from:</description>
+    </item>
+    
+  </channel>
+</rss>

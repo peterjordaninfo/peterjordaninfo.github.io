@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Social on Peter Jordan</title>
+    <link>/categories/social/</link>
+    <description>Recent content in Social on Peter Jordan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Released under the MIT license.</copyright>
+    <lastBuildDate>Thu, 23 Jul 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/social/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Ello Bill of Rights for Social Network Users</title>
+      <link>/blog/the-ello-bill-of-rights-for-social-network-users/</link>
+      <pubDate>Thu, 23 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/the-ello-bill-of-rights-for-social-network-users/</guid>
+      <description>Ello, the ad-free social network, founded as an alternative to the status quo, has published a bill of rights for social network users.
+It has ten beliefs, starting with:
+ You have the right to privacy You have the right not ot be tracked  Find out more, and sign the petition.</description>
+    </item>
+    
+  </channel>
+</rss>

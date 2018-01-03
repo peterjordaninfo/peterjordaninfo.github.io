@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data on Peter Jordan</title>
+    <link>/categories/data/</link>
+    <description>Recent content in Data on Peter Jordan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Released under the MIT license.</copyright>
+    <lastBuildDate>Sat, 11 Mar 2017 10:37:20 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/data/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Recycling rates</title>
+      <link>/blog/recycling-rates/</link>
+      <pubDate>Sat, 11 Mar 2017 10:37:20 +0000</pubDate>
+      
+      <guid>/blog/recycling-rates/</guid>
+      <description>An article about my local council’s worsening recycling rate sent me on a quick investigation of the data and to reflect on the context.
+ “Cllr Jan Warwick, portfolio holder for environment, blamed a fall in the amount of newspapers being recycled.”
+ Hum, what does that mean? I presume it means fewer newspapers in volume are being recycled - rather than the proportion of newspapers being recycled has fallen.</description>
+    </item>
+    
+    <item>
+      <title>Explain your work using only the 1,000 most-used words</title>
+      <link>/blog/explain-your-work-1000/</link>
+      <pubDate>Mon, 06 Mar 2017 22:21:20 +0000</pubDate>
+      
+      <guid>/blog/explain-your-work-1000/</guid>
+      <description>What I do using the 1000 most used words
+Cambridge based geneticist, Theo Sanderson has built a great tool, THE UP-GOER FIVE TEXT EDITOR. You&amp;rsquo;re asked to explain a hard idea using only the ten hundred most used words.
+There&amp;rsquo;s been a bit of a Twitter meme to try to explain your job within the same parameters. Here&amp;rsquo;s my go:
+ I help people who build stuff with computers think about what good looks like</description>
+    </item>
+    
+    <item>
+      <title>In response to &#39;Why we report data&#39;﻿</title>
+      <link>/blog/in-response-to-why-we-report-data/</link>
+      <pubDate>Sun, 29 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/in-response-to-why-we-report-data/</guid>
+      <description>The thoughtful Dominic Hurst has recently posted about Why we report data. He’s provided some excellent tips to meet the challenge of presenting data or user research that is understood and actionable:
+ Widen the ownership of the dashboard Try just focus on the metrics that matter Strip the dashboard of analytical jargon Provide actionable insights  Beta dashboard used at Liverpool John Moores University(LMU)
+I’d add to this the challenge of getting users to engage with a dashboard or report in the first place.</description>
+    </item>
+    
+    <item>
+      <title>What about the data in content strategy and service design</title>
+      <link>/blog/what-about-the-data-in-content-strategy-and-service-design/</link>
+      <pubDate>Tue, 19 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/what-about-the-data-in-content-strategy-and-service-design/</guid>
+      <description>Just caught up with a blog post from the UK Ministry of Justice Digital team&amp;rsquo;s Martin Oliver. It originally appeared on the MoJ blog as Cracking the code and content question, but was republished under a different title on Public Technology as Running your digital project - tips from MOJ Digital.
+There&amp;rsquo;s lots of useful advice, but I was disappointed not to see reference to using quantitative data and analysis. I think data and telling a story from its analysis are vital to content development.</description>
+    </item>
+    
+    <item>
+      <title>Changing the ‘Data at GDS’ blog</title>
+      <link>/blog/changing-the-data-at-gds/</link>
+      <pubDate>Mon, 14 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/changing-the-data-at-gds/</guid>
+      <description>We&amp;rsquo;ve decided to reboot the &amp;lsquo;Data at GDS blog&amp;rsquo; to focus only on posts relating to technical aspects of data work being done in GDS. So only posts from performance analysts, data analysts and data scientists will appear.
+We hope this will provide a means of sharing our learning amongst ourselves and with colleagues both inside and outside government.
+We’ll be sharing tips and hacks on data tools, development of data science prototypes and feedback from analytics events we’ve been involved in.</description>
+    </item>
+    
+    <item>
+      <title>DAUGS VI</title>
+      <link>/blog/daugs-vi/</link>
+      <pubDate>Sat, 05 Dec 2015 22:21:20 +0000</pubDate>
+      
+      <guid>/blog/daugs-vi/</guid>
+      <description>On 4 December, I hosted DAUGS VI, the sixth meet-up of Digital Analysts in UK Government Services. What started as a smallish event for digital analysts working on the UK Government Digital Service&amp;rsquo;s Digital Transformation exemplar programme, has blossomed into a wider event for a wider family of analysts and other disciplines interested in using digital data.
+Network visualisation of GOV.UK
+Forty to fifty people attended DAUGS VI and we had speakers from:</description>
+    </item>
+    
+  </channel>
+</rss>
