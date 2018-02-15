@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Released under the MIT license.</copyright>
-    <lastBuildDate>Sun, 27 Aug 2017 10:17:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Feb 2018 22:20:00 +0000</lastBuildDate>
     
 	<atom:link href="http://peterjordan.info/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Industry standards for measuring websites</title>
+      <link>http://peterjordan.info/blog/industry-standards-for-measuring-websites/</link>
+      <pubDate>Thu, 15 Feb 2018 22:20:00 +0000</pubDate>
+      
+      <guid>http://peterjordan.info/blog/industry-standards-for-measuring-websites/</guid>
+      <description>So what’s best practice for measuring the impact of websites - especially public sector sites?
+I’ve recently been doing some research about useful published standards for measuring the effectiveness of websites, particularly those in the public sector that don’t have commercial drivers.
+What gets published Many public sector organisations, in the spirit of transparency, publish data about the use of their sites. But they tend to be things that are relatively easily measured, rather than being derived from organisational aims.</description>
+    </item>
     
     <item>
       <title>An analytical response to ‘Facing things as they are&#39;</title>
@@ -165,17 +176,6 @@ I enjoyed a very thought-provoking talk and fascinating post-talk chat. Though a
       <description>Ello, the ad-free social network, founded as an alternative to the status quo, has published a bill of rights for social network users.
 It has ten beliefs, starting with:
  You have the right to privacy You have the right not ot be tracked  Find out more, and sign the petition.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://peterjordan.info/blog/industry-standards-for-measuring-websites/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://peterjordan.info/blog/industry-standards-for-measuring-websites/</guid>
-      <description>Industry standards for measuring websites So what’s best practice for measuring the impact of websites - especially public sector sites?
-I’ve recently been doing some research about useful published standards for measuring the effectiveness of websites, particularly those in the public sector that don’t have commercial drivers.
-What gets published Many public sector organisations, in the spirit of transparency, publish data about the use of their sites. But they tend to be things that are relatively easily measured, rather than being derived from organisational aims.</description>
     </item>
     
     <item>

@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://peterjordan.info/blog/industry-standards-for-measuring-websites/</loc>
+    <lastmod>2018-02-15T22:20:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://peterjordan.info/blog/an-analytical-response--to-facing-things-as-they-are/</loc>
     <lastmod>2017-08-27T10:17:00+00:00</lastmod>
   </url>
@@ -78,28 +83,24 @@
   </url>
   
   <url>
-    <loc>http://peterjordan.info/blog/industry-standards-for-measuring-websites/</loc>
-  </url>
-  
-  <url>
     <loc>http://peterjordan.info/blog/test1/</loc>
   </url>
   
   <url>
     <loc>http://peterjordan.info/categories/analysis/</loc>
-    <lastmod>2017-08-27T10:17:00+00:00</lastmod>
+    <lastmod>2018-02-15T22:20:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://peterjordan.info/blog/</loc>
-    <lastmod>2017-08-27T10:17:00+00:00</lastmod>
+    <lastmod>2018-02-15T22:20:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://peterjordan.info/categories/</loc>
-    <lastmod>2017-08-27T10:17:00+00:00</lastmod>
+    <lastmod>2018-02-15T22:20:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -123,7 +124,7 @@
   
   <url>
     <loc>http://peterjordan.info/</loc>
-    <lastmod>2017-08-27T10:17:00+00:00</lastmod>
+    <lastmod>2018-02-15T22:20:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
