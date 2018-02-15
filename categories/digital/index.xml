@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Digital on Peter Jordan</title>
-    <link>/categories/digital/</link>
+    <link>http://peterjordan.info/categories/digital/</link>
     <description>Recent content in Digital on Peter Jordan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Released under the MIT license.</copyright>
     <lastBuildDate>Mon, 06 Mar 2017 22:21:20 +0000</lastBuildDate>
     
-	<atom:link href="/categories/digital/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://peterjordan.info/categories/digital/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Explain your work using only the 1,000 most-used words</title>
-      <link>/blog/explain-your-work-1000/</link>
+      <link>http://peterjordan.info/blog/explain-your-work-1000/</link>
       <pubDate>Mon, 06 Mar 2017 22:21:20 +0000</pubDate>
       
-      <guid>/blog/explain-your-work-1000/</guid>
+      <guid>http://peterjordan.info/blog/explain-your-work-1000/</guid>
       <description>What I do using the 1000 most used words
 Cambridge based geneticist, Theo Sanderson has built a great tool, THE UP-GOER FIVE TEXT EDITOR. You&amp;rsquo;re asked to explain a hard idea using only the ten hundred most used words.
 There&amp;rsquo;s been a bit of a Twitter meme to try to explain your job within the same parameters. Here&amp;rsquo;s my go:
@@ -26,10 +26,10 @@ There&amp;rsquo;s been a bit of a Twitter meme to try to explain your job within
     
     <item>
       <title>DAUGS VI</title>
-      <link>/blog/daugs-vi/</link>
+      <link>http://peterjordan.info/blog/daugs-vi/</link>
       <pubDate>Sat, 05 Dec 2015 22:21:20 +0000</pubDate>
       
-      <guid>/blog/daugs-vi/</guid>
+      <guid>http://peterjordan.info/blog/daugs-vi/</guid>
       <description>On 4 December, I hosted DAUGS VI, the sixth meet-up of Digital Analysts in UK Government Services. What started as a smallish event for digital analysts working on the UK Government Digital Service&amp;rsquo;s Digital Transformation exemplar programme, has blossomed into a wider event for a wider family of analysts and other disciplines interested in using digital data.
 Network visualisation of GOV.UK
 Forty to fifty people attended DAUGS VI and we had speakers from:</description>

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Peter Jordan</title>
-    <link>/</link>
+    <link>http://peterjordan.info/</link>
     <description>Recent content on Peter Jordan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Released under the MIT license.</copyright>
     <lastBuildDate>Sun, 27 Aug 2017 10:17:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://peterjordan.info/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>An analytical response to ‘Facing things as they are&#39;</title>
-      <link>/blog/an-analytical-response--to-facing-things-as-they-are/</link>
+      <link>http://peterjordan.info/blog/an-analytical-response--to-facing-things-as-they-are/</link>
       <pubDate>Sun, 27 Aug 2017 10:17:00 +0000</pubDate>
       
-      <guid>/blog/an-analytical-response--to-facing-things-as-they-are/</guid>
+      <guid>http://peterjordan.info/blog/an-analytical-response--to-facing-things-as-they-are/</guid>
       <description>Will Myddleton recently posted about Facing things as they are — as a fundamental of user research and an approach to life. As an analyst and as a meditator who works (sometimes successfully) to appreciate the moment, I really valued what Will has written. I said I&amp;rsquo;d try to respond from an analyst&amp;rsquo;s perspective.
 As analysts working in multi-disciplinary teams, we have a number of tasks:
  Gather and analyse existing evidence Identify a testable hypothesis Make sure the data we need is collected and is appropriate Do the analysis Tell an actionable story  So this is a very parallel, indeed intermingled, journey to that described by Will.</description>
@@ -25,10 +25,10 @@ As analysts working in multi-disciplinary teams, we have a number of tasks:
     
     <item>
       <title>Weeknotes 01-02</title>
-      <link>/blog/weeknotes-01-02/</link>
+      <link>http://peterjordan.info/blog/weeknotes-01-02/</link>
       <pubDate>Sat, 22 Jul 2017 22:25:20 +0000</pubDate>
       
-      <guid>/blog/weeknotes-01-02/</guid>
+      <guid>http://peterjordan.info/blog/weeknotes-01-02/</guid>
       <description>I’ve been following the trials, tribulations and successes of colleagues in their weeknotes over the last while. So now I’m having a go - to share my working week as Head of Performance and Data Analysis at GDS.
 I started writing some notes last week, but before I knew it, it was this week. So here are two weeks worth.
 Week 1: 10 July Monday Still getting into the stride of my new and longer commute from Waterloo to GDS’ new abode at Aldgate.</description>
@@ -36,10 +36,10 @@ Week 1: 10 July Monday Still getting into the stride of my new and longer commut
     
     <item>
       <title>Why we are appointing a digital analytics platform manager</title>
-      <link>/blog/why-we-appointing-digital-analytics-platform-manager/</link>
+      <link>http://peterjordan.info/blog/why-we-appointing-digital-analytics-platform-manager/</link>
       <pubDate>Mon, 03 Jul 2017 23:37:20 +0000</pubDate>
       
-      <guid>/blog/why-we-appointing-digital-analytics-platform-manager/</guid>
+      <guid>http://peterjordan.info/blog/why-we-appointing-digital-analytics-platform-manager/</guid>
       <description>Data sources, actions and blockers
 The UK Government Digital Service (GDS) leads digital transformation in government, collaborating with teams from other departments to help them build better public services. Alongside those departmental teams, GDS is transforming government together.
 GDS has a large and complex digital analytics implementation (currently using Google Analytics and Piwik). GOV.UK and other GDS websites and digital services generate over 500 million hits a year and there are around 1000 users, accessing data over a large number of properties and views.</description>
@@ -47,10 +47,10 @@ GDS has a large and complex digital analytics implementation (currently using Go
     
     <item>
       <title>A multi-disciplinary team</title>
-      <link>/blog/multi-disciplinary-team/</link>
+      <link>http://peterjordan.info/blog/multi-disciplinary-team/</link>
       <pubDate>Thu, 30 Mar 2017 23:37:20 +0000</pubDate>
       
-      <guid>/blog/multi-disciplinary-team/</guid>
+      <guid>http://peterjordan.info/blog/multi-disciplinary-team/</guid>
       <description>I’ve just read a recent article in the Economic View section of the New York Times. The article asks What if Sociologists Had as Much Influence as Economists?.
 I liked the quotation from Michèle Lamont, a Harvard sociologist and president of the American Sociological Association:
  “Once economists have the ears of people in Washington, they convince them that the only questions worth asking are the questions that economists are equipped to answer.</description>
@@ -58,10 +58,10 @@ I liked the quotation from Michèle Lamont, a Harvard sociologist and president 
     
     <item>
       <title>Recycling rates</title>
-      <link>/blog/recycling-rates/</link>
+      <link>http://peterjordan.info/blog/recycling-rates/</link>
       <pubDate>Sat, 11 Mar 2017 10:37:20 +0000</pubDate>
       
-      <guid>/blog/recycling-rates/</guid>
+      <guid>http://peterjordan.info/blog/recycling-rates/</guid>
       <description>An article about my local council’s worsening recycling rate sent me on a quick investigation of the data and to reflect on the context.
  “Cllr Jan Warwick, portfolio holder for environment, blamed a fall in the amount of newspapers being recycled.”
  Hum, what does that mean? I presume it means fewer newspapers in volume are being recycled - rather than the proportion of newspapers being recycled has fallen.</description>
@@ -69,10 +69,10 @@ I liked the quotation from Michèle Lamont, a Harvard sociologist and president 
     
     <item>
       <title>Explain your work using only the 1,000 most-used words</title>
-      <link>/blog/explain-your-work-1000/</link>
+      <link>http://peterjordan.info/blog/explain-your-work-1000/</link>
       <pubDate>Mon, 06 Mar 2017 22:21:20 +0000</pubDate>
       
-      <guid>/blog/explain-your-work-1000/</guid>
+      <guid>http://peterjordan.info/blog/explain-your-work-1000/</guid>
       <description>What I do using the 1000 most used words
 Cambridge based geneticist, Theo Sanderson has built a great tool, THE UP-GOER FIVE TEXT EDITOR. You&amp;rsquo;re asked to explain a hard idea using only the ten hundred most used words.
 There&amp;rsquo;s been a bit of a Twitter meme to try to explain your job within the same parameters. Here&amp;rsquo;s my go:
@@ -81,10 +81,10 @@ There&amp;rsquo;s been a bit of a Twitter meme to try to explain your job within
     
     <item>
       <title>In response to &#39;Why we report data&#39;﻿</title>
-      <link>/blog/in-response-to-why-we-report-data/</link>
+      <link>http://peterjordan.info/blog/in-response-to-why-we-report-data/</link>
       <pubDate>Sun, 29 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/blog/in-response-to-why-we-report-data/</guid>
+      <guid>http://peterjordan.info/blog/in-response-to-why-we-report-data/</guid>
       <description>The thoughtful Dominic Hurst has recently posted about Why we report data. He’s provided some excellent tips to meet the challenge of presenting data or user research that is understood and actionable:
  Widen the ownership of the dashboard Try just focus on the metrics that matter Strip the dashboard of analytical jargon Provide actionable insights  Beta dashboard used at Liverpool John Moores University(LMU)
 I’d add to this the challenge of getting users to engage with a dashboard or report in the first place.</description>
@@ -92,10 +92,10 @@ I’d add to this the challenge of getting users to engage with a dashboard or r
     
     <item>
       <title>Big Bang Data exhibition - a personal review</title>
-      <link>/blog/big-bang-data-exhibition-apersonal-review/</link>
+      <link>http://peterjordan.info/blog/big-bang-data-exhibition-apersonal-review/</link>
       <pubDate>Wed, 03 Feb 2016 21:14:17 +0000</pubDate>
       
-      <guid>/blog/big-bang-data-exhibition-apersonal-review/</guid>
+      <guid>http://peterjordan.info/blog/big-bang-data-exhibition-apersonal-review/</guid>
       <description>Last week some GDS performance and data analysts made a &amp;lsquo;field trip&amp;rsquo; down the road to the Big Bang Data exhibition at Somerset House in the Strand. The exhibition curators aim to highlight &amp;ldquo;the datafication of our world and how data affects everyone&amp;rdquo;.
 The five themes in the exhibition are:
  data and you data and cities data and democracy data and privacy data and design  As an analyst working in government, I was mostly aware of the issues discussed, but I found it thought-provoking to see things represented as both data and art.</description>
@@ -103,20 +103,20 @@ The five themes in the exhibition are:
     
     <item>
       <title>What about the data in content strategy and service design</title>
-      <link>/blog/what-about-the-data-in-content-strategy-and-service-design/</link>
+      <link>http://peterjordan.info/blog/what-about-the-data-in-content-strategy-and-service-design/</link>
       <pubDate>Tue, 19 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/blog/what-about-the-data-in-content-strategy-and-service-design/</guid>
+      <guid>http://peterjordan.info/blog/what-about-the-data-in-content-strategy-and-service-design/</guid>
       <description>Just caught up with a blog post from the UK Ministry of Justice Digital team&amp;rsquo;s Martin Oliver. It originally appeared on the MoJ blog as Cracking the code and content question, but was republished under a different title on Public Technology as Running your digital project - tips from MOJ Digital.
 There&amp;rsquo;s lots of useful advice, but I was disappointed not to see reference to using quantitative data and analysis. I think data and telling a story from its analysis are vital to content development.</description>
     </item>
     
     <item>
       <title>Re This is The Plan</title>
-      <link>/blog/re-this-is-the-plan/</link>
+      <link>http://peterjordan.info/blog/re-this-is-the-plan/</link>
       <pubDate>Wed, 30 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>/blog/re-this-is-the-plan/</guid>
+      <guid>http://peterjordan.info/blog/re-this-is-the-plan/</guid>
       <description>I&amp;rsquo;ve been re-reading Craig Sullivan&amp;rsquo;s recent blog post, This is The Plan:
 This is the plan
 It&amp;rsquo;s a great plan and an excellent template. It got me thinking how this fits into the culture of the wider agile team, where iteration can often look like this:
@@ -125,10 +125,10 @@ Not surprisingly a Lean approach provides a way in; and I came across Joshua Ker
     
     <item>
       <title>Changing the ‘Data at GDS’ blog</title>
-      <link>/blog/changing-the-data-at-gds/</link>
+      <link>http://peterjordan.info/blog/changing-the-data-at-gds/</link>
       <pubDate>Mon, 14 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>/blog/changing-the-data-at-gds/</guid>
+      <guid>http://peterjordan.info/blog/changing-the-data-at-gds/</guid>
       <description>We&amp;rsquo;ve decided to reboot the &amp;lsquo;Data at GDS blog&amp;rsquo; to focus only on posts relating to technical aspects of data work being done in GDS. So only posts from performance analysts, data analysts and data scientists will appear.
 We hope this will provide a means of sharing our learning amongst ourselves and with colleagues both inside and outside government.
 We’ll be sharing tips and hacks on data tools, development of data science prototypes and feedback from analytics events we’ve been involved in.</description>
@@ -136,10 +136,10 @@ We’ll be sharing tips and hacks on data tools, development of data science pro
     
     <item>
       <title>DAUGS VI</title>
-      <link>/blog/daugs-vi/</link>
+      <link>http://peterjordan.info/blog/daugs-vi/</link>
       <pubDate>Sat, 05 Dec 2015 22:21:20 +0000</pubDate>
       
-      <guid>/blog/daugs-vi/</guid>
+      <guid>http://peterjordan.info/blog/daugs-vi/</guid>
       <description>On 4 December, I hosted DAUGS VI, the sixth meet-up of Digital Analysts in UK Government Services. What started as a smallish event for digital analysts working on the UK Government Digital Service&amp;rsquo;s Digital Transformation exemplar programme, has blossomed into a wider event for a wider family of analysts and other disciplines interested in using digital data.
 Network visualisation of GOV.UK
 Forty to fifty people attended DAUGS VI and we had speakers from:</description>
@@ -147,10 +147,10 @@ Forty to fifty people attended DAUGS VI and we had speakers from:</description>
     
     <item>
       <title>Jared Spool asked is &#39;Design Metrically Opposed?</title>
-      <link>/blog/jared-spool-asked-is-design-metrically-opposed/</link>
+      <link>http://peterjordan.info/blog/jared-spool-asked-is-design-metrically-opposed/</link>
       <pubDate>Fri, 11 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>/blog/jared-spool-asked-is-design-metrically-opposed/</guid>
+      <guid>http://peterjordan.info/blog/jared-spool-asked-is-design-metrically-opposed/</guid>
       <description>The team at the Government Digital Service had a visit from Jared Spool yesterday, where he posed the question is Design Metrically Opposed.
 Jared Spool speaking at Government Digital Service
 I enjoyed a very thought-provoking talk and fascinating post-talk chat. Though as an analyst, I felt there were a few too many cheap amusing anti Google Analytics jibes. Don&amp;rsquo;t we spend our working lives getting colleagues to think about context, to identify valuable things to measure and develop hypotheses?</description>
@@ -158,10 +158,10 @@ I enjoyed a very thought-provoking talk and fascinating post-talk chat. Though a
     
     <item>
       <title>The Ello Bill of Rights for Social Network Users</title>
-      <link>/blog/the-ello-bill-of-rights-for-social-network-users/</link>
+      <link>http://peterjordan.info/blog/the-ello-bill-of-rights-for-social-network-users/</link>
       <pubDate>Thu, 23 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>/blog/the-ello-bill-of-rights-for-social-network-users/</guid>
+      <guid>http://peterjordan.info/blog/the-ello-bill-of-rights-for-social-network-users/</guid>
       <description>Ello, the ad-free social network, founded as an alternative to the status quo, has published a bill of rights for social network users.
 It has ten beliefs, starting with:
  You have the right to privacy You have the right not ot be tracked  Find out more, and sign the petition.</description>
@@ -169,11 +169,31 @@ It has ten beliefs, starting with:
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>http://peterjordan.info/about/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>http://peterjordan.info/about/</guid>
       <description>Peter is a digital strategist with a focus on digital analytics, performance analysis and findability.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://peterjordan.info/blog/industry-standards-for-measuring-websites/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://peterjordan.info/blog/industry-standards-for-measuring-websites/</guid>
+      <description>Industry standards for measuring websites So what’s best practice for measuring the impact of websites - especially public sector sites?
+I’ve recently been doing some research about useful published standards for measuring the effectiveness of websites, particularly those in the public sector that don’t have commercial drivers.
+What gets published Many public sector organisations, in the spirit of transparency, publish data about the use of their sites. But they tend to be things that are relatively easily measured, rather than being derived from organisational aims.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://peterjordan.info/blog/test1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://peterjordan.info/blog/test1/</guid>
+      <description></description>
     </item>
     
   </channel>

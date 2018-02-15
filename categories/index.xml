@@ -2,76 +2,76 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Peter Jordan</title>
-    <link>/categories/</link>
+    <link>http://peterjordan.info/categories/</link>
     <description>Recent content in Categories on Peter Jordan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Released under the MIT license.</copyright>
     <lastBuildDate>Sun, 27 Aug 2017 10:17:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://peterjordan.info/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Analysis</title>
-      <link>/categories/analysis/</link>
+      <link>http://peterjordan.info/categories/analysis/</link>
       <pubDate>Sun, 27 Aug 2017 10:17:00 +0000</pubDate>
       
-      <guid>/categories/analysis/</guid>
+      <guid>http://peterjordan.info/categories/analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data</title>
-      <link>/categories/data/</link>
+      <link>http://peterjordan.info/categories/data/</link>
       <pubDate>Sat, 11 Mar 2017 10:37:20 +0000</pubDate>
       
-      <guid>/categories/data/</guid>
+      <guid>http://peterjordan.info/categories/data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Digital</title>
-      <link>/categories/digital/</link>
+      <link>http://peterjordan.info/categories/digital/</link>
       <pubDate>Mon, 06 Mar 2017 22:21:20 +0000</pubDate>
       
-      <guid>/categories/digital/</guid>
+      <guid>http://peterjordan.info/categories/digital/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Events</title>
-      <link>/categories/events/</link>
+      <link>http://peterjordan.info/categories/events/</link>
       <pubDate>Wed, 03 Feb 2016 21:14:17 +0000</pubDate>
       
-      <guid>/categories/events/</guid>
+      <guid>http://peterjordan.info/categories/events/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Social</title>
-      <link>/categories/social/</link>
+      <link>http://peterjordan.info/categories/social/</link>
       <pubDate>Thu, 23 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>/categories/social/</guid>
+      <guid>http://peterjordan.info/categories/social/</guid>
       <description></description>
     </item>
     
     <item>
       <title>User Needs</title>
-      <link>/categories/user-needs/</link>
+      <link>http://peterjordan.info/categories/user-needs/</link>
       <pubDate>Thu, 30 Mar 2017 23:37:20 +0000</pubDate>
       
-      <guid>/categories/user-needs/</guid>
+      <guid>http://peterjordan.info/categories/user-needs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Weeknotes</title>
-      <link>/categories/weeknotes/</link>
+      <link>http://peterjordan.info/categories/weeknotes/</link>
       <pubDate>Sat, 22 Jul 2017 22:25:20 +0000</pubDate>
       
-      <guid>/categories/weeknotes/</guid>
+      <guid>http://peterjordan.info/categories/weeknotes/</guid>
       <description></description>
     </item>
     
